@@ -6,6 +6,7 @@ using System.Configuration;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using webAPI_ASPNET.DTOs;
 using webAPI_ASPNET.Models;
 using webAPI_ASPNET.Repositorios.Interfaces;
 
@@ -110,6 +111,26 @@ namespace webAPI_ASPNET.Controllers
             var token = tokenHandler.CreateToken(tokenDescriptor);
             var tokenString = tokenHandler.WriteToken(token);
             return Ok(new { Token = tokenHandler.WriteToken(token) });
+        }
+
+        [HttpPost("register")]
+        public async Task<IActionResult> Register([FromBody] UserRegisterDto dto)
+        {
+            // validações básicas
+            if (string.IsNullOrEmpty(dto.USERNAME) || string.IsNullOrEmpty(dto.PASSWORD))
+                return BadRequest("Usuário e senha são obrigatórios");
+
+            var user = new User
+            {
+                FULLNAME = dto.FULLNAME,
+                EMAIL = dto.EMAIL,
+                USERNAME = dto.USERNAME,
+                PASSWORD = dto.PASSWORD, // depois podemos hashear
+            };
+
+            await _userRepositorio.post(user);
+
+            return Ok(new { message = "Usuário criado com sucesso" });
         }
     }
 }

@@ -19,6 +19,8 @@ namespace webAPI_ASPNET.Data
             modelBuilder.Entity<Department>().ToTable("DEPARTMENT");
             modelBuilder.Entity<DepartmentRelation>().ToTable("DEPARTMENTRELATION");
             modelBuilder.Entity<ButtonRelation>().ToTable("BUTTONRELATION");
+            modelBuilder.Entity<Pedido>().ToTable("Pedido");
+            modelBuilder.Entity<PedidoItem>().ToTable("PedidoItem");
             base.OnModelCreating(modelBuilder);
         }
 
@@ -28,5 +30,7 @@ namespace webAPI_ASPNET.Data
         public DbSet<Department> Department { get; set; }
         public DbSet<DepartmentRelation> DepartmentRelation { get; set; }
         public DbSet<UserLogin> UserLogin { get; set; }
+        public DbSet<Pedido> Pedidos { get; set; }
+        public DbSet<PedidoItem> PedidoItens { get; set; }
     }
 }

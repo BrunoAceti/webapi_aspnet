@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\dtos\\pedidoitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:dtos\\pedidoitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|c:\\users\\user\\documents\\github\\webapi_aspnet\\webapi_aspnet\\dtos\\pedidocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3058214-121B-4A07-843C-6327A41DC43B}|webAPI_ASPNET.csproj|solutionrelative:dtos\\pedidocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +66,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:23:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-12T11:46:14.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:07:09.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vxgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:28:57.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Models\\Pedido.cs",
+              "RelativeToolTip": "Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:13:47.379Z",
               "EditorCaption": ""
             },
             {
@@ -53,9 +137,62 @@
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAiwIUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:01:44.651Z"
+              "WhenOpened": "2024-12-12T11:01:44.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Controllers\\PedidoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:11:34.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoItemCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\DTOs\\PedidoItemCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PedidoItemCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\DTOs\\PedidoItemCreateDto.cs",
+              "RelativeToolTip": "DTOs\\PedidoItemCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:11:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Models\\PedidoItem.cs",
+              "RelativeDocumentMoniker": "Models\\PedidoItem.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\Models\\PedidoItem.cs",
+              "RelativeToolTip": "Models\\PedidoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:14:13.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PedidoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\DTOs\\PedidoCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PedidoCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\webapi_aspnet\\webAPI_ASPNET\\DTOs\\PedidoCreateDto.cs",
+              "RelativeToolTip": "DTOs\\PedidoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:10:29.524Z",
+              "EditorCaption": ""
             }
           ]
         }

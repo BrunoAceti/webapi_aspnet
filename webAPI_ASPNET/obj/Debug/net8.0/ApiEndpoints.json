@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "webAPI_ASPNET.Controllers.PedidoController",
+    "Method": "CriarPedido",
+    "RelativePath": "api/pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "webAPI_ASPNET.DTOs.PedidoCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "webAPI_ASPNET.Controllers.PedidoController",
+    "Method": "MeusPedidos",
+    "RelativePath": "api/pedido/meus-pedidos/{emailCliente}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailCliente",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "webAPI_ASPNET.Controllers.ButtonController",
     "Method": "getAll",
     "RelativePath": "Button",
@@ -795,6 +827,22 @@
       {
         "Name": "login",
         "Type": "webAPI_ASPNET.Models.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "webAPI_ASPNET.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "webAPI_ASPNET.DTOs.UserRegisterDto",
         "IsRequired": true
       }
     ],
