@@ -124,7 +124,7 @@ namespace webAPI_ASPNET.Repositorios
 
         }
 
-        public UserLogin Authenticate(string username, string password)
+        public User Authenticate(string username, string password)
         {
             string query = $@"
                             SELECT U.ID, U.USERNAME, U.PASSWORD, U.FULLNAME, U.EMAIL, D.ID AS IDDEPARTMENT, D.DEPARTMENTNAME 

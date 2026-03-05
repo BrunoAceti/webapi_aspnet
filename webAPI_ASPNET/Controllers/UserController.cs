@@ -98,8 +98,10 @@ namespace webAPI_ASPNET.Controllers
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(new[]
-                {
+{
                     new Claim(ClaimTypes.Name, user.USERNAME),
+                    new Claim(ClaimTypes.Email, user.EMAIL), // ← ADICIONA ESSA LINHA
+                    new Claim(ClaimTypes.NameIdentifier, user.ID.ToString()), // ← MUITO IMPORTANTE
                     new Claim(ClaimTypes.Role, "ADM")
                 }),
                 Expires = DateTime.UtcNow.AddHours(1),

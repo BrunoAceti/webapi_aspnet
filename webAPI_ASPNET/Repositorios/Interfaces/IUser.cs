@@ -12,6 +12,6 @@ namespace webAPI_ASPNET.Repositorios.Interfaces
         Task<User> post(User user);
         Task<User> put(User user, int id);
         Task<bool> delete(int id);
-        UserLogin Authenticate(string username, string password);
+        User Authenticate(string username, string password);
     }
 }

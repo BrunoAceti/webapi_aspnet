@@ -29,7 +29,7 @@ namespace webAPI_ASPNET.Data
         public DbSet<ButtonRelation> ButtonRelation { get; set; }
         public DbSet<Department> Department { get; set; }
         public DbSet<DepartmentRelation> DepartmentRelation { get; set; }
-        public DbSet<UserLogin> UserLogin { get; set; }
+        public DbSet<User> UserLogin { get; set; }
         public DbSet<Pedido> Pedidos { get; set; }
         public DbSet<PedidoItem> PedidoItens { get; set; }
     }
